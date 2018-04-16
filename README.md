@@ -1,2 +1,12 @@
 # Schrodinger2D_FEM_sq
-2D time independante Schroedinger solver on inhomogeneous grid
+This code solves the time independent Schroedinger equation in 2D with a constant mass on an inhomogeneous grid.
+It uses the Finite Elements Method.
+Three different potentials are proposed:
+
+-> The Rectangular potential
+
+-> The Elliptical potential
+
+-> The Hexagonal potential
+
+Any potential can be loaded with homogeneous grid x,y [m] and V [eV]
