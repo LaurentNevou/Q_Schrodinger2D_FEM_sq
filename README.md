@@ -9,4 +9,4 @@ Three different potentials are proposed:
 
 -> The Hexagonal potential
 
-Any potential can be loaded with homogeneous grid x,y [m] and V [eV]
+Any potential can be loaded with inhomogeneous grid x,y [m] and V [eV]
