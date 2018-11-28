@@ -10,3 +10,6 @@ Three different potentials are proposed:
 -> The Hexagonal potential
 
 Any potential can be loaded with inhomogeneous grid x,y [m] and V [eV]
+
+
+=> If you like it, don't forget the star!
