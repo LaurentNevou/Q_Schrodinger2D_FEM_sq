@@ -1,6 +1,6 @@
 # Schrodinger2D_FEM_sq
 This code solves the time independent Schroedinger equation in 2D with a constant mass on an inhomogeneous grid.
-It uses the Finite Elements Method.
+It uses the Finite Difference Method.
 Three different potentials are proposed:
 
 -> The Rectangular potential
