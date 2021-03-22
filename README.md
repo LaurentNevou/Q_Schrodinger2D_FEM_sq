@@ -13,3 +13,6 @@ Any potential can be loaded with inhomogeneous grid x,y [m] and V [eV]
 
 
 => If you like it, don't forget the star!
+
+![image](https://user-images.githubusercontent.com/35040499/111984519-be631e00-8b0b-11eb-94cb-1836d985121e.png)
+
